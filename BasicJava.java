@@ -40,8 +40,7 @@ public class BasicJava {
 	}
 	
 	/**
-	 * This method finds and prints out the max value; it only works for positive 
-	 * values. Do you see why?
+	 * This method finds and prints out the max value; 
 	 * @param array an integer array
 	 */
 	public void printMax(int[]array){
